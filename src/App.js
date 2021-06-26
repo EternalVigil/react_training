@@ -4,7 +4,6 @@ import './App.css';
 import { Skeleton } from './components/wrappers/Skeleton';
 
 const App = () => {
-  console.log('loading the app');
   return (
     <div className="App">
       <Skeleton />
