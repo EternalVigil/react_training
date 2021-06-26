@@ -6,9 +6,7 @@ import { Skeleton } from './components/wrappers/Skeleton';
 const App = () => {
   return (
     <div className="App">
-
       <Skeleton />
-
     </div>
   );
 }
